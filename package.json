@@ -1,0 +1,44 @@
+{
+  "name": "expo-snack-bar",
+  "version": "1.0.0",
+  "description": "A lightweight and customizable snackbar for Expo and React Native",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "prepare": "npm run build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dileepapeiris/expo-snack-bar.git"
+  },
+  "files": [
+    "lib",
+    "src"
+  ],
+  "keywords": [
+    "expo",
+    "react-native",
+    "snackbar",
+    "toast",
+    "ui"
+  ],
+  "author": "Dileepa Peiris",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dileepapeiris/expo-snack-bar/issues"
+  },
+  "homepage": "https://github.com/dileepapeiris/expo-snack-bar#readme",
+  "peerDependencies": {
+    "react": "*",
+    "react-native": "*"
+  },
+  "devDependencies": {
+    "@types/react": "^19.0.0",
+    "@types/react-native": "^0.72.0",
+    "react": "^19.0.0",
+    "react-native": "^0.76.0",
+    "typescript": "^5.0.0"
+  }
+}
