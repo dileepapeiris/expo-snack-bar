@@ -1,5 +1,5 @@
 {
-  "name": "expo-snack-bar",
+  "name": "@dileepapeiris/expo-snackbar",
   "version": "1.0.0",
   "description": "A lightweight and customizable snackbar for Expo and React Native",
   "main": "lib/index.js",
